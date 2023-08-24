@@ -11,7 +11,7 @@ You can download it on [Kaggle](https://www.kaggle.com/datasets/jessemostipak/ho
   <br/>
 ## Analysis Questions
  <br/>
-Our analysis consists of 3 main parts Bookings, Hotels and Customers.
+Our analysis consists of 3 main parts Bookings, Hotels and Customers. <br/> <br/>
 
 Booking:
 + What is the big picture of room booking over the year and month?
