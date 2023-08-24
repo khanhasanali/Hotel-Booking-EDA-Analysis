@@ -1,15 +1,12 @@
 # Hotel Booking Analysis
-## Introduction
-**Objective** : The main objective of this Exploratory Data Analysis (EDA) is to uncover patterns, trends, and insights from the hotel booking data, which encompasses details from both a city hotel and a resort hotel. <br/> **Importance** : Why is this analysis important? Maybe it helps hotels improve their marketing strategy, optimise prices, or enhance customer experience.
+ <br/> __Objective__ : The main objective of this Exploratory Data Analysis (EDA) is to uncover patterns, trends, and insights from the hotel booking data, which encompasses details from both a city hotel and a resort hotel.<br/> <br/> **Importance** : Why is this analysis important? Maybe it helps hotels improve their marketing strategy, optimise prices, or enhance customer experience.
  <br/>
   <br/>
-## About the Dataset
-This data is from Nuno Antonio, Ana Almeida, and Luis Nunes from their February 2019 article, “[Hotel Booking Demand Datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191),” written for their Brief Volume 22 for Data.
+### About the Dataset
 
-You can download it on [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).
- <br/>
-  <br/>
-## Analysis Questions
+This data is from Nuno Antonio, Ana Almeida, and Luis Nunes from their February 2019 article, “[Hotel Booking Demand Datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191),” written for their Brief Volume 22 for Data.<br/><br/>
+### Analysis Questions
+
  <br/>
 Our analysis consists of 3 main parts Bookings, Hotels and Customers. <br/> <br/>
 
