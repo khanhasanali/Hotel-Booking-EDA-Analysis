@@ -7,7 +7,6 @@
 This data is from Nuno Antonio, Ana Almeida, and Luis Nunes from their February 2019 article, “[Hotel Booking Demand Datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191),” written for their Brief Volume 22 for Data.<br/><br/>
 ### Analysis Questions
 
- <br/>
 Our analysis consists of 3 main parts Bookings, Hotels and Customers. <br/> <br/>
 
 Booking:
