@@ -25,5 +25,4 @@ Customers:
 * What is the trend of customer requests during their stay in different room types?
 * What market segment has the highest repeated guest rate and the highest stay duration?
 * Does the number of customers in the baby group affect their parents’ decision in booking meals and stay duration?
-* What types of rooms are most popular for children and babies?
 
