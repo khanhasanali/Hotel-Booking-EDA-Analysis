@@ -26,3 +26,21 @@ Customers:
 * What market segment has the highest repeated guest rate and the highest stay duration?
 * Does the number of customers in the baby group affect their parents’ decision in booking meals and stay duration?
 
+### Key Insights:
+
+* Bookings in _2016 **increased by 331%**_ compared to _2015_, making it the year with the most bookings.
+* Guests who stay for more nights tend to book more meals. Meals and room reservations are most in demand in _**July**_ and _**August**_.
+* Popular rooms lead to a **higher** number of **requests** being made.
+* City hotels are _**1.7x times**_ more popular than resort hotels.
+* Corporate guests have the highest number of repeated stays (_close to 1400_), but their total spending on accommodation is low (_only 8K_). On the other hand, online travel agencies have _580_ repeated guests, but their **total stay duration is the highest** (_185K nights_).
+* Families with babies tend to book **more breakfast** but fewer full board and no meal options. Additionally, they tend to stay for longer periods than other guests.
+
+
+
+
+
+
+
+
+
+
